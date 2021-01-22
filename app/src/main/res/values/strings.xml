@@ -1,0 +1,26 @@
+<resources>
+    <string name="dash">Dashboard</string>
+    <string name="surahjuz">Surah &amp; Juz</string>
+    <string name="setting">Setting</string>
+    <string name="app_name">Eco Islam</string>
+
+    <string name="sSearch">Search</string>
+    <string name="sListen">Listen</string>
+    <string name="sInfo">Info</string>
+    <string name="sSurah">Surah</string>
+    <string name="sJuz">Juz</string>
+    <string name="sVerse">Verse</string>
+    <string name="sGo">Go</string>
+    <string name="sFontType">Font Type</string>
+    <string name="sTextSize">Text Size</string>
+    <string name="sTransLang">Translation Language</string>
+    <string name="sTrans">Translation</string>
+    <string name="sTranslit">Transliteration</string>
+    <string name="sLastRead">Last Read</string>
+    <string name="sFav">Favorites</string>
+    <string name="sPlay">Play</string>
+
+    <string name="sContinue">Continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
